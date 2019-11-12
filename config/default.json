@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://nik:Nokia@123@cluster0-kvzwt.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "mySecretToken"
+}
